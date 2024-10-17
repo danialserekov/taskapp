@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">taskapp</string>
+    <string name="button_add_task">Add Task</string>
+    <string name="button_show_tasks">Show All Tasks</string>
+    <string name="button_show_completed">Show Completed Tasks</string>
+    <string name="task_list_title">Task List</string>
+    <string name="no_completed_tasks">No completed tasks</string>
+    <string name="button_complete_task">Complete Task</string>
+    <string name="button_remove_task">Remove Task</string>
+    <string name="button_print_tasks">Print Tasks</string>
+    <string name="hint_enter_task_name">Enter task name</string>
+    <string name="fragment_container">Task List</string>
+
+
+</resources>
